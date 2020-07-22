@@ -25,11 +25,11 @@
 			font-family: 'Font Awesome 5 Brands';
 		}
 		@elseif ($category == solid) {
-			font-family: 'Arabic Typesetting';
+			font-family: 'Font Awesome Free';
 			font-weight: 900;
 		}
 		@else {
-			font-family: 'Arabic Typesetting';
+			font-family: 'Font Awesome Free';
 			font-weight: 400;
 		}
 
