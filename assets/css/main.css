@@ -2,8 +2,6 @@
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,700,900");
 
 /*
-	Phantom by HTML5 UP
-	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
@@ -195,10 +193,11 @@ input, select, textarea {
 
 		}
 
+
 	h2, h3, h4, h5, h6 {
-		font-weight: 900;
-		line-height: 1.5;
-		margin: 0 0 2em 0;
+		font-weight: 500;
+		line-height: 0.01;
+		margin: 0 0 1.1em 0;
 		text-transform: uppercase;
 		letter-spacing: 0.05em;
 	}
@@ -208,7 +207,7 @@ input, select, textarea {
 		}
 
 	h2 {
-		font-size: 1.1em;
+		font-size: 1.5em;
 	}
 
 	h3 {
